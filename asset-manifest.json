@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/2025HappyNewYear/static/css/main.39139322.css",
+    "main.js": "/2025HappyNewYear/static/js/main.93c50449.js",
+    "static/js/453.286b90d7.chunk.js": "/2025HappyNewYear/static/js/453.286b90d7.chunk.js",
+    "static/media/D2Coding-Ver1.3-20171129.ttf": "/2025HappyNewYear/static/media/D2Coding-Ver1.3-20171129.434b840fcb5942745c99.ttf",
+    "static/media/env.txt": "/2025HappyNewYear/static/media/env.2e258f09a69c8be9b5a9.txt",
+    "static/media/text1.txt": "/2025HappyNewYear/static/media/text1.0b3358016565e1ceb6a5.txt",
+    "static/media/text10.txt": "/2025HappyNewYear/static/media/text10.adb845c70fac875cdd5a.txt",
+    "static/media/text11.txt": "/2025HappyNewYear/static/media/text11.fd64c63aabd4e8e200c7.txt",
+    "static/media/text12.txt": "/2025HappyNewYear/static/media/text12.7200624e1c3491a218f1.txt",
+    "static/media/text13.txt": "/2025HappyNewYear/static/media/text13.774a0e9d8b879e957a94.txt",
+    "static/media/text14.txt": "/2025HappyNewYear/static/media/text14.7c0002e6ff89e9c3597f.txt",
+    "static/media/text15.txt": "/2025HappyNewYear/static/media/text15.f9ffdad8d9dbb9ef4d14.txt",
+    "static/media/text16.txt": "/2025HappyNewYear/static/media/text16.2833804cc9673ca5cf39.txt",
+    "static/media/text17.txt": "/2025HappyNewYear/static/media/text17.9c80129cf11e67905804.txt",
+    "static/media/text2.txt": "/2025HappyNewYear/static/media/text2.b2f7f8eca96146a8719d.txt",
+    "static/media/text3.txt": "/2025HappyNewYear/static/media/text3.4ee0dc323165df186c01.txt",
+    "static/media/text4.txt": "/2025HappyNewYear/static/media/text4.a6e528cb39298533805a.txt",
+    "static/media/text5.txt": "/2025HappyNewYear/static/media/text5.64e8b8fb3b3998020471.txt",
+    "static/media/text6.txt": "/2025HappyNewYear/static/media/text6.79e2bc31838b7fa2917c.txt",
+    "static/media/text7.txt": "/2025HappyNewYear/static/media/text7.0cb85fb4c5303c0dddf5.txt",
+    "static/media/text8.txt": "/2025HappyNewYear/static/media/text8.976ba046cf426611a437.txt",
+    "static/media/text9.txt": "/2025HappyNewYear/static/media/text9.e29be2d6326a905da24b.txt",
+    "index.html": "/2025HappyNewYear/index.html",
+    "main.39139322.css.map": "/2025HappyNewYear/static/css/main.39139322.css.map",
+    "main.93c50449.js.map": "/2025HappyNewYear/static/js/main.93c50449.js.map",
+    "453.286b90d7.chunk.js.map": "/2025HappyNewYear/static/js/453.286b90d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39139322.css",
+    "static/js/main.93c50449.js"
+  ]
+}
