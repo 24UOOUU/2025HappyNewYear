@@ -1,0 +1,34 @@
+@font-face {
+  font-family: "D2Coding";         
+  src: url("./font/D2Coding-Ver1.3-20171129.ttf");
+}
+
+.App {
+  text-align: center;
+  background-color: #000000;
+  min-height: 100vh;
+  min-width: 100vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(3vmin);
+  white-space: pre-wrap;
+  color: rgb(255, 255, 00);
+  font-family: 'D2Coding', sans-serif;
+}
+
+.pageBack {
+  text-align: center;
+  background-color: #000000;
+  min-height: 100vh;
+  min-width: 100vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(3vmin);
+  white-space: pre-wrap;
+  color: rgb(35, 145, 77);
+  font-family: 'D2Coding', sans-serif;
+}
